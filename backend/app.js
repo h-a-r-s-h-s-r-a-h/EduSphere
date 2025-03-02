@@ -24,7 +24,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 const mongoUrl =
-  "mongodb+srv://harsh:harsh@harsh.bevwaya.mongodb.net/?retryWrites=true&w=majority";
+  "<MONGO_URL>";
 
 mongoose
   .connect(mongoUrl, {
