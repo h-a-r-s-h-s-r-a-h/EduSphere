@@ -1,0 +1,27 @@
+.popupName {
+  font-size: larger;
+  font-weight: 500;
+  margin: auto;
+  align-items: center;
+  display: flex;
+}
+.popupMenu {
+  background-color: #cec7d200;
+  margin-top: 10px;
+  opacity: 1;
+  align-items: center;
+}
+.pointerLink {
+  cursor: pointer;
+}
+.mybtn {
+  margin-top: auto;
+}
+.rule {
+  margin-top: 10px;
+}
+.codeArea{
+    margin-top: 10px;
+}
+
+
